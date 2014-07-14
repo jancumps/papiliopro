@@ -2,8 +2,9 @@ papiliopro
 ==========
 
 papiliobufferio_kicad.zip
-papiliobufferio_fab.zip
 -------------------------
+papiliobufferio_fab.zip
+-----------------------
 This is the KICAD version and OHSPARK fab archive of the Gadget Factory 16-bit Buffer for Logic Analyser
 http://gadgetforge.gadgetfactory.net/gf/project/ols-buffer/
 This is not a product. It's an exercise.
