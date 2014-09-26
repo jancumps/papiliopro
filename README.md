@@ -12,3 +12,7 @@ For the product pleasde visit http://papilio.cc
 The same license as the original art applies:
 This work is licensed under the Creative Commons Non-Commercial Attribution License.
 To view a copy of this license, visit http://creativecommons.org/ ; or, (b) send a letter to Creative Commons, 171 2nd Street, Suite 300, San Francisco, California, 94105, USA.
+
+OSH Park project:
+-----------------
+https://oshpark.com/shared_projects/L94DZlSK
